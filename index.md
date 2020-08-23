@@ -1,6 +1,7 @@
 <meta charSet="utf-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
 <body>
   <h1>Termos de uso</h1>
   <p>Última revisão em 23/08/2020</p>
@@ -9,71 +10,51 @@
   <h2>1. Aceitação dos Termos de uso.</h2>
   <p>Ao criar uma conta no Petfynder, seja através de dispositivo móvel, aplicativo móvel ou computador
     (coletivamente, o “Serviço”), você concorda em vincular-se (i) aos presentes Termos de Uso, (ii) a
-    nossa <a href="https://jonatanortiz.github.io/Politica-de-Privacidade-Petfynder/" target="_blank">Política de Privacidade</a>, nossa <a href="/cookie-policy">Política de
-      Cookies</a>, nossos <a href="/arbitration">Procedimentos Arbitrais</a> (se aplicáveis a você) e
-    nossas <a href="/safety">Dicas de Segurança</a>, cada qual será incorporado a este Contrato por
-    referência, bem como (iii) quaisquer termos divulgados e assinados por você ao adquirir recursos
-    adicionais, produtos ou serviços que oferecemos no Serviço (coletivamente, este “Contrato”). Se você
-    não aceita e não concorda em vincular-se aos termos deste Contrato, não utilize o nosso Serviço.</p>
+    nossa <a href="https://jonatanortiz.github.io/Politica-de-Privacidade-Petfynder/" target="_blank">Política de
+      Privacidade</a> incorporado a este Contrato por referência, bem como (ii) quaisquer termos divulgados e assinados
+    por você ao adquirir recursos adicionais, produtos ou serviços que oferecemos no Serviço (coletivamente, este
+    “Contrato”). Se você não aceita e não concorda em vincular-se aos termos deste Contrato, não utilize o nosso
+    Serviço.</p>
   <p>Podemos alterar este Contrato e o Serviço periodicamente. Podemos fazê-lo por diversas razões,
     inclusive para refletir as alterações ou exigências legais, novos recursos ou mudanças nas práticas
-    comerciais. A versão mais recente deste Contrato será publicada no Serviço, em Configurações, e também
-    no goPetfynder.com; você deve consultar a versão mais recente regularmente. A versão mais recente é a
-    que
-    se aplica. Se as alterações incluírem emendas significativas que afetam os seus direitos ou
+    comerciais. A versão mais recente deste Contrato será publicada no Serviço, em "Termos de Uso" na aba de navegação;
+    você deve consultar a versão mais recente regularmente. A versão mais recente é a
+    que se aplica. Se as alterações incluírem emendas significativas que afetam os seus direitos ou
     obrigações, você será notificado antecipadamente a respeito, por meios razoáveis, o que pode incluir
     notificação por meio do Serviço ou por e-mail. Se você continuar a utilizar o Serviço após as
     alterações entrarem em vigor, isso significa que você concorda com o Contrato revisado.</p>
   <h2>2. Qualificação.</h2>
-  <p>Você deve ter, no mínimo, 18 anos de idade para criar uma conta no Petfynder e utilizar o Serviço. Ao
-    criar uma conta e utilizar o Serviço, você declara e garante que:</p>
-  <ul>
-    <li>você pode firmar um contrato vinculativo com a Petfynder,</li>
-    <li>não está impedido de utilizar o Serviço nos termos das leis dos Estados Unidos ou outra jurisdição
-      aplicável, o que significa que você não está incluído na lista de cidadãos especialmente designados
-      do Departamento do Tesouro dos EUA, ou sujeito a qualquer outra proibição semelhante;</li>
-    <li>cumprirá este Contrato e todas as leis, normas e regulamentos municipais, estaduais, nacionais e
-      internacionais aplicáveis e</li>
-    <li>você nunca foi condenado por crime ou ofensa grave (ou qualquer crime de mesma gravidade), crime
-      de assédio sexual, ou qualquer crime que envolva violência, e que você não é obrigado a se registrar
-      no cadastro de criminosos sexuais de qualquer estado, federação ou local.</li>
-  </ul>
+  <p>Não há limite de idade para o uso de nossos serviços.</p>
   <h2>3. Sua conta.</h2>
   <p>Para usar o Petfynder, você pode acessar usando suas credenciais do Facebook. Se o fizer, você nos
-    autoriza a acessar e utilizar determinadas informações da sua conta do Facebook, inclusive, entre
-    outras, o seu perfil público no Facebook. Para saber mais sobre as informações que coletamos de você e
-    como as utilizamos, consulte a nossa <a href="/privacy">Política de Privacidade</a>.</p>
+    autoriza a acessar e utilizar determinadas informações da sua conta do Facebook. Para saber mais sobre as
+    informações que coletamos de você e como as utilizamos, consulte a nossa<a
+      href="https://jonatanortiz.github.io/Politica-de-Privacidade-Petfynder/" target="_blank">Política de
+      Privacidade</a>.</p>
   <p>Você é responsável por manter a confidencialidade de suas credenciais de login que utiliza para se
     conectar ao Petfynder, além de ser o único responsável por todas as atividades associadas ao uso
-    dessas
-    credenciais. Se você acredita que alguém obteve acesso à sua conta, <a
-      href="https://www.help.Petfynder.com/hc/requests/new">entre em contato conosco</a> imediatamente.
+    dessas credenciais. Se você acredita que alguém obteve acesso à sua conta, entre em contato conosco imediatamente
+    pelo email petfynder.adm@gmail.com.
   </p>
   <h2>4. Alteração do Serviço e Rescisão.</h2>
   <p>O Petfynder está empenhado em melhorar o Serviço e a oferecer funcionalidades adicionais que possam
-    ser
-    úteis e interessantes para você. Isso significa que podemos incluir novos recursos ou aprimorar
+    ser úteis e interessantes para você. Isso significa que podemos incluir novos recursos ou aprimorar
     produtos ao longo do tempo, bem como remover alguns recursos e, se essas ações não afetarem os seus
     direitos e obrigações significativamente, talvez não forneceremos aviso prévio antes de removê-los.
     Podemos até mesmo suspender totalmente o Serviço, caso em que você será notificado com antecedência, a
     menos que circunstâncias atenuantes, como questões de segurança, impeçam-nos de fazê-lo.</p>
-  <p>Você pode encerrar sua conta a qualquer momento, por qualquer motivo, seguindo as instruções em
-    “Configurações”, no Serviço; no entanto, se você usar uma conta de pagamento de terceiros, você
-    precisará gerenciar suas compras no aplicativo por meio dessa conta (por exemplo, iTunes, Google Play)
-    para evitar cobranças adicionais. O Petfynder poderá cancelar sua conta a qualquer momento, sem aviso
-    prévio, se acreditar que você violou este Contrato. Após o referido cancelamento, você não terá
+  <p>Você pode encerrar sua conta a qualquer momento, por qualquer motivo; no entanto, se você usar uma conta
+    de pagamento de terceiros, você precisará gerenciar suas compras no aplicativo por meio dessa conta (por exemplo,
+    Google Play) para evitar cobranças adicionais. O Petfynder poderá cancelar sua conta a qualquer momento, sem
+    aviso prévio, se acreditar que você violou este Contrato. Após o referido cancelamento, você não terá
     direito a nenhum reembolso pelas compras. Após o cancelamento de sua conta, este Contrato será
     rescindido, considerando que as seguintes disposições continuarão em vigor entre você e o Petfynder:
-    seção 4, seção 5 e seções 12 a 19.</p>
+    seção 4, seção 5 e seções 12 a 16.</p>
   <h2>5. Segurança; suas interações com outros membros.</h2>
-  <p>Embora o Petfynder se esforce para incentivar uma experiência de membro com respeito, por meio de
-    recursos como a dupla aceitação, que permite aos membros se comunicarem apenas se ambos tiverem
-    interesse um pelo outro, não somos responsáveis pela conduta do membro dentro ou fora do Serviço. Você
-    concorda em agir com cautela em todas as interações com outros membros, especialmente ao decidir se
-    comunicar fora do Serviço ou pessoalmente. Além disso, você concorda em revisar e seguir as <a href="/safety">Dicas
-      de Segurança</a> do Petfynder antes de utilizar o Serviço. Você concorda que
-    não
-    fornecerá suas informações financeiras (p. ex., cartão de crédito ou informações de conta bancária) e
+  <p>Embora o Petfynder se esforce para incentivar uma experiência com respeito, não somos responsáveis pela conduta do
+    membro dentro ou fora do Serviço. Você concorda em agir com cautela em todas as interações com outros membros,
+    especialmente ao decidir se comunicar fora do Serviço ou pessoalmente. Você concorda que
+    não fornecerá suas informações financeiras (p. ex., cartão de crédito ou informações de conta bancária) e
     que não transferirá ou enviará dinheiro por outros meios a outros membros.</p>
   <p>VOCÊ É O ÚNICO RESPONSÁVEL POR SUAS INTERAÇÕES COM OUTROS MEMBROS. VOCÊ COMPREENDE QUE O Petfynder
     NÃO
@@ -141,9 +122,8 @@
     autoriza o Petfynder a agir em seu nome com relação a usos ilícitos de seu Conteúdo retirados do
     Serviço
     por outros membros ou terceiros. Isso inclui expressamente a autorização, mas não a obrigação, de
-    enviar avisos conforme o 17 U.S.C. § 512(c)(3) (por ex., DMCA Takedown Notices) em seu nome caso o
-    Conteúdo seja retirado e utilizado por terceiros fora do Serviço. Nossa licença referente ao seu
-    Conteúdo está sujeita a seus direitos de acordo com a lei aplicável (por ex., leis referentes à
+    enviar avisos em seu nome caso o Conteúdo seja retirado e utilizado por terceiros fora do Serviço. Nossa licença
+    referente ao seu Conteúdo está sujeita a seus direitos de acordo com a lei aplicável (por ex., leis referentes à
     proteção de dados pessoais, na medida em que qualquer Conteúdo contenha informações pessoais, conforme
     definido por tais leis) e para fins exclusivos de operação, desenvolvimento, fornecimento e melhoria
     do Serviço, bem como pesquisas e desenvolvimentos de novos serviços. Você concorda que qualquer
@@ -179,8 +159,6 @@
     <li>utilizar o Serviço para qualquer finalidade que seja ilegal ou proibida por este Contrato;</li>
     <li>usar o Serviço para qualquer fim prejudicial ou desonesto;</li>
     <li>usar o Serviço com o propósito de prejudicar o Petfynder;</li>
-    <li>violar as nossas <a href="https://www.goPetfynder.com/community-guidelines">Diretrizes
-        Comunitárias</a>, atualizadas periodicamente;</li>
     <li>fazer spam, solicitar dinheiro ou fraudar qualquer membro;</li>
     <li>personificar qualquer pessoa ou entidade, ou publicar imagens de outra pessoa sem a permissão
       dela;</li>
@@ -210,17 +188,17 @@
   <p>Embora o Petfynder reserve-se no direito de revisar e remover o Conteúdo que viola este Contrato, o
     referido Conteúdo é de exclusiva responsabilidade do membro que o publica, e o Petfynder não pode
     garantir que todo o Conteúdo cumprirá com este Contrato. Se você se deparar com algum Conteúdo no
-    Serviço que implique na violação deste Contrato, informe o problema diretamente pelo Serviço ou pelo
-    <a href="https://www.help.Petfynder.com/hc/requests/new">nosso formulário de contato</a>.</p>
+    Serviço que implique na violação deste Contrato, informe o problema diretamente pelo e-mail
+    petfynder.adm@gmail.com.</p>
   <h2>10. Compras.</h2>
   <p><strong>Geral.</strong> Ao longo do tempo, o Petfynder poderá oferecer produtos e serviços para
     compra
-    (“compras no aplicativo”) por meio do iTunes, Google Play, pela operadora, pela cobrança direta do
+    (“compras no aplicativo”) por meio do Google Play, pela operadora, pela cobrança direta do
     Petfynder ou outras plataformas de pagamento autorizadas pelo Petfynder. Se você optar por fazer uma
     compra
     no aplicativo, você terá que confirmar a sua compra com o provedor de pagamento aplicável, e você
     receberá uma cobrança conforme o seu método de pagamento (cartão ou um meio pertencente a terceiros,
-    como o Google Play ou o iTunes) (o seu “Método de Pagamento”) nos preços atribuídos ao(s) serviço(s)
+    como o Google Play) (o seu “Método de Pagamento”) nos preços atribuídos ao(s) serviço(s)
     que você selecionou, bem como quaisquer vendas ou impostos similares que possam ser aplicáveis aos
     seus pagamentos. Assim, você autoriza o Petfynder ou a conta de terceiros a realizar uma cobrança. Se
     você adquirir uma assinatura periódica de renovação automática por meio de uma compra no aplicativo,
@@ -234,10 +212,8 @@
     da data da compra inicial, sempre no valor com que você concordou no início. As informações de
     pagamento do seu cartão serão armazenadas e posteriormente usadas para os pagamentos automáticos de
     cartão, de acordo com o Contrato.</p>
-  <p>As objeções a um pagamento já efetuado devem ser direcionadas ao <a
-      href="https://www.help.Petfynder.com/hc/requests/new">Suporte ao Cliente</a> se você tiver sido
-    cobrado
-    diretamente pelo Petfynder ou por uma conta relevante de terceiros, como o iTunes. Você também poderá
+  <p>As objeções a um pagamento já efetuado devem ser direcionadas ao email petfynder.adm@gmail.com se você tiver sido
+    cobrado diretamente pelo Petfynder ou por uma conta relevante de terceiros, como o Google Play. Você também poderá
     fazer uma objeção entrando em contato com seu banco ou provedor de pagamento, que pode fornecer mais
     informações sobre seus direitos, bem como os prazos aplicáveis.</p>
   <p>Você pode, de maneira incondicional, retirar o seu consentimento em relação aos pagamentos
@@ -247,14 +223,11 @@
   <p>Se deseja alterar ou encerrar a sua assinatura, você deverá fazer o login na sua conta de terceiros
     (ou nas Configurações no Petfynder) e seguir as instruções para cancelar a sua assinatura, mesmo que
     tenha excluído a sua conta conosco ou o aplicativo Petfynder do seu dispositivo. Excluir a sua conta
-    ou o
-    aplicativo do Petfynder do seu dispositivo não faz com que a sua assinatura seja encerrada ou
+    ou o aplicativo do Petfynder do seu dispositivo não faz com que a sua assinatura seja encerrada ou
     cancelada;
     o Petfynder reterá todos os fundos debitados do Método de Pagamento selecionado até que você encerre
-    ou
-    cancele a sua assinatura pelo Petfynder ou pela conta de terceiros, conforme aplicável. Se você
-    encerrar
-    ou cancelar sua assinatura, você poderá usá-la até o final de seu prazo atual, e ela não será renovada
+    ou cancele a sua assinatura pelo Petfynder ou pela conta de terceiros, conforme aplicável. Se você
+    encerrar ou cancelar sua assinatura, você poderá usá-la até o final de seu prazo atual, e ela não será renovada
     após esse período.</p>
   <p><strong>Há alguns termos adicionais aplicáveis caso você realize o pagamento utilizando o seu Método
       de Pagamento escolhido.</strong> Se você realizar o pagamento diretamente no aplicativo, o Petfynder
@@ -271,24 +244,18 @@
     atualização ou substituição das datas de validade e dos números de seu cartão de débito ou crédito,
     conforme fornecido pelo emissor do cartão. As condições de pagamento serão baseadas em seu Método de
     Pagamento e poderão ser determinadas por acordos feitos entre você e a instituição financeira, o
-    emissor do cartão de crédito ou outro provedor de seu Método de Pagamento escolhido. Se você mora fora
-    da região das Américas, você concorda que seu pagamento para o Petfynder será realizado por meio da
-    MTCH
-    Technology Services Limited.</p>
-  <p><strong>Super Likes e outros Itens virtuais.</strong> Ao longo do tempo, você poderá adquirir uma
+    emissor do cartão de crédito ou outro provedor de seu Método de Pagamento escolhido.</p>
+  <p><strong>Itens virtuais.</strong> Ao longo do tempo, você poderá adquirir uma
     licença limitada, pessoal, intransferível, não sublicenciável e revogável para utilizar “itens
-    virtuais”, inclusive, entre outros, os Super Likes (coletivamente, “Itens virtuais”). Qualquer saldo
-    de Item Virtual exibido em sua conta não constitui um saldo do mundo real nem reflete qualquer valor
-    armazenado, mas constitui uma medida da extensão de sua licença. Os Itens Virtuais não incorrem em
+    virtuais”. Qualquer saldo de Item Virtual exibido em sua conta não constitui um saldo do mundo real nem reflete
+    qualquer valor armazenado, mas constitui uma medida da extensão de sua licença. Os Itens Virtuais não incorrem em
     taxas por não utilização, no entanto, a licença concedida a você em Itens Virtuais será rescindida de
     acordo com os termos deste Contrato quando o Petfynder deixar de fornecer o Serviço ou a sua conta for
     encerrada ou rescindida. O Petfynder, a seu critério exclusivo, reserva-se o direito de cobrar taxas
-    pelo
-    direito de acessar ou utilizar Itens Virtuais e/ou poderá distribuir Itens Virtuais com ou sem custo.
+    pelo direito de acessar ou utilizar Itens Virtuais e/ou poderá distribuir Itens Virtuais com ou sem custo.
     O Petfynder poderá gerenciar, regulamentar, controlar, modificar ou eliminar Itens Virtuais a qualquer
     momento. O Petfynder não terá qualquer responsabilidade perante você ou qualquer terceiro, caso o
-    Petfynder
-    exerça esses direitos. Itens Virtuais só podem ser resgatados por meio do Serviço. TODAS AS COMPRAS E
+    Petfynder exerça esses direitos. Itens Virtuais só podem ser resgatados por meio do Serviço. TODAS AS COMPRAS E
     RESGATES DE ITENS VIRTUAIS FEITOS POR MEIO DO SERVIÇO SÃO DECISIVOS E NÃO REEMBOLSÁVEIS. O
     fornecimento de Itens Virtuais para uso no Serviço é um serviço que inicia imediatamente após a
     aceitação da sua compra dos Itens Virtuais. VOCÊ RECONHECE QUE O Petfynder NÃO É OBRIGADO A OFERECER
@@ -299,31 +266,15 @@
     existem reembolsos ou créditos para períodos parcialmente utilizados. Podemos abrir uma exceção se o
     reembolso de uma oferta de assinatura for solicitado no período de 14 dias a contar da data da
     transação, ou se as leis aplicáveis em sua jurisdição oferecerem opções de reembolso.</p>
-  <p>Assinantes residentes na União Europeia ou no Espaço Econômico Europeu têm, de acordo com a
-    legislação local, direito a um reembolso total, sem menção do motivo, nos primeiros 14 dias após fazer
-    a assinatura. Observe que esse período de 14 dias entra em vigor juntamente com a assinatura.</p>
   <p>As compras de Itens virtuais são DECISIVAS E NÃO REEMBOLSÁVEIS.</p>
   <p>Para solicitar um reembolso:<br>
-    Se você fez sua assinatura usando seu ID Apple, os reembolsos serão feitos pela Apple, não pelo
-    Petfynder. Para solicitar um reembolso, acesse o iTunes, clique na sua ID Apple, selecione “Histórico
-    de
-    compras”, localize a operação e clique em “Comunicar problema”. Você também poderá enviar uma
-    solicitação para <a href="https://getsupport.apple.com">https://getsupport.apple.com</a>.</p>
-  <p>Se você fez a sua assinatura usando a sua conta da Google Play Store ou o Petfynder diretamente,
+    Se você fez a sua assinatura usando a sua conta da Google Play Store ou o Petfynder diretamente,
     entre
-    em contato com o <a href="https://www.goPetfynder.com/help">atendimento ao cliente</a> e tenha em mãos
-    o
-    número do pedido da Google Play Store (você pode encontrar esse número no e-mail de confirmação do
-    pedido ou conectando-se ao Google Wallet) ou entre em contato com o Petfynder (verifique seu e-mail de
-    confirmação). Você também pode enviar por correio ou entregar pessoalmente uma notificação assinada e
-    datada, indicando que você, o comprador, está cancelando este contrato. Inclua também o endereço de
-    e-mail ou o número do telefone associado à sua conta juntamente com o número de seu pedido. Essa
-    notificação deverá ser enviada para: Petfynder, Attn: Cancellations, P.O. Box 25472, Dallas, Texas
-    75225,
-    EUA.</p>
-  <p>Se você exercer o seu direito de cancelamento (exceto para compras feitas pelo seu Apple ID, que é de
-    domínio da Apple), reembolsaremos (ou pediremos que o Google reembolse) todos os pagamentos recebidos
-    de você, sem demora indevida e, em todos os casos, no prazo de 14 dias a contar da data em que
+    em contato com o atendimento ao cliente pelo email petfynder.adm@gmail.com e tenha em mãos
+    o número do pedido da Google Play Store (você pode encontrar esse número no e-mail de confirmação do
+    pedido ou conectando-se ao Google Wallet).</p>
+  <p>Se você exercer o seu direito de cancelamento, reembolsaremos (ou pediremos que o Google reembolse) todos os
+    pagamentos recebidos de você, sem demora indevida e, em todos os casos, no prazo de 14 dias a contar da data em que
     recebemos o aviso sobre a sua decisão de cancelar o Contrato. Efetuaremos o reembolso usando o mesmo
     Método de Pagamento selecionado por você na transação inicial. Em todos os casos, nenhuma taxa será
     cobrada como resultado do reembolso.</p>
@@ -331,15 +282,13 @@
     físico) se o processamento do pedido tiver sido iniciado com o seu consentimento prévio explícito e
     com o reconhecimento de que você perderá seu direito de cancelamento. Isso se aplica, por exemplo, à
     aquisição de Itens Virtuais. Isso significa que tais compras são DECISIVAS E NÃO REEMBOLSÁVEIS.</p>
-  <p><strong>Preços.</strong> A Petfynder opera um negócio global e presta serviços a uma comunidade
-    diversa
-    de membros. Nossa estrutura de preços pode variar conforme a região, a duração da assinatura, o
+  <p><strong>Preços.</strong> Nossa estrutura de preços pode variar conforme a região, a duração da assinatura, o
     tamanho do pacote, as promoções recentes no aplicativo e outros fatores. Testamos frequentemente novos
     recursos e níveis de preço para fornecer aos membros maior funcionalidade e mais opções de pagamento
     caso eles escolham usá-las.</p>
   <h2>11. Notificação e procedimento para reivindicação de violação de direitos autorais.</h2>
   <p>Se você acreditar que o seu trabalho foi copiado e publicado no Serviço de forma que constitua uma
-    violação de direitos autorais, forneça as seguintes informações ao nosso agente de direitos autorais:
+    violação de direitos autorais, forneça as seguintes informações ao nosso email (petfynder.adm@gmail.com):
   </p>
   <ul>
     <li>uma assinatura eletrônica ou física da pessoa autorizada a agir em nome do proprietário dos
@@ -355,11 +304,6 @@
       precisas e que você é o proprietário dos direitos autorais ou está autorizado a agir em nome do
       proprietário dos direitos autorais.</li>
   </ul>
-  <p>Reivindicações referentes à violação de direitos autorais devem ser notificadas ao diretor de
-    direitos autorais da empresa pelo e-mail <a href="mailto:copyright@match.com">copyright@match.com</a>,
-    pelo número (+1) 214-576-3272 ou por correspondência para o seguinte endereço:</p>
-  <p>Copyright Compliance Department c/o Match Group Legal 8750 N. Central Expressway, Suite 1400 Dallas,
-    Texas 75231, EUA</p>
   <p>A Petfynder encerrará as contas de infratores reincidentes.</p>
   <h2>12. Isenção de responsabilidade.</h2>
   <p>O Petfynder OFERECE O SERVIÇO “NO ESTADO EM QUE SE ENCONTRA”, “CONFORME DISPONÍVEL” E NA EXTENSÃO
@@ -391,96 +335,25 @@
     TENHA
     SIDO AVISADO DA POSSIBILIDADE DOS REFERIDOS DANOS. EM NENHUMA CIRCUNSTÂNCIA, A RESPONSABILIDADE
     AGREGADA DO Petfynder EM RELAÇÃO A VOCÊ POR TODAS AS REIVINDICAÇÕES RELACIONADAS AO SERVIÇO EXCEDERÁ O
-    VALOR PAGO PELO SERVIÇO, SE FOR O CASO, POR VOCÊ AO Petfynder, OU 100 DÓLARES DOS ESTADOS UNIDOS (O
-    QUE
-    FOR MAIOR), ENQUANTO VOCÊ TIVER UMA CONTA.</p>
+    VALOR PAGO PELO SERVIÇO, SE FOR O CASO, POR VOCÊ AO Petfynder ENQUANTO VOCÊ TIVER UMA CONTA.</p>
   <p>ALGUMAS JURISDIÇÕES NÃO PERMITEM A EXCLUSÃO OU LIMITAÇÃO DE CERTOS DANOS, POR ISSO, ALGUMAS OU TODAS
     AS EXCLUSÕES E LIMITAÇÕES DESTA SEÇÃO PODEM NÃO SE APLICAR A VOCÊ.</p>
-  <h2>15. Arbitragem, renúncia de ação coletiva e renúncia de júri.</h2>
-  <p>Exceto para membros residentes na União Europeia ou no Espaço Econômico Europeu e outros locais onde
-    a lei aplicável o proíba:</p>
-  <ol>
-    <li>Os meios exclusivos para resolver qualquer litígio ou reivindicação resultante ou relacionada a
-      este Contrato (inclusive qualquer suposta violação do mesmo) ou o Serviço será a ARBITRAGEM
-      VINCULATIVA administrada pela JAMS sob os termos das Regras e procedimentos simplificados de
-      arbitragem da JAMS, exceto quando modificado por nossos <a href="/arbitration">procedimentos
-        arbitrais</a>. A única exceção à exclusividade da arbitragem é que qualquer uma das partes tem o
-      direito de apresentar uma reivindicação individual contra a outra em um juizado de pequenas causas
-      de jurisdição competente ou, em caso de arbitragem, a parte respondente pode solicitar que a disputa
-      seja apresentada a um juizado de pequenas causas se estiver dentro da jurisdição dele. Se o pedido
-      para apresentar a disputa ao juizado de pequenas causas for feito antes da nomeação de um árbitro, a
-      arbitragem será encerrada administrativamente. Se o pedido para apresentar a disputa ao juizado de
-      pequenas causas for feito após a nomeação de um árbitro, o árbitro determinará se a disputa deve
-      permanecer em arbitragem ou ser decidida no juizado de pequenas causas. Tal arbitragem será
-      conduzida somente por petições escritas, a menos que você ou o Petfynder decidam invocar o direito a
-      uma audiência oral perante o Árbitro. No entanto, independentemente de escolher arbitragem ou
-      juizado de pequenas causas, você concorda que não irá, em nenhuma circunstância, iniciar, manter ou
-      participar contra a Empresa de qualquer ação coletiva, arbitragem coletiva ou outra ação ou processo
-      representativo contra o Petfynder.</li>
-    <li>Ao utilizar o Serviço sob qualquer forma, você concorda com o contrato de arbitragem acima. Ao
-      fazê-lo, VOCÊ ABRE MÃO DO SEU DIREITO DE BUSCAR UM TRIBUNAL para resolver ou defender quaisquer
-      reivindicações entre você e a Empresa (exceto para assuntos que possam ser levados ao juizado de
-      pequenas causas). VOCÊ IGUALMENTE ABRE MÃO DO SEU DIREITO DE PARTICIPAR DE UMA AÇÃO COLETIVA OU
-      OUTRO PROCESSO COLETIVO. Se você fizer uma reivindicação contra o Petfynder fora do juizado de
-      pequenas
-      causas (e se o Petfynder não solicitar que a reivindicação seja movida para o juizado de pequenas
-      causas), os seus direitos serão determinados por um ÁRBITRO NEUTRO, NÃO UM JUIZ OU JÚRI, e o árbitro
-      determinará todas as questões relacionadas à arbitrabilidade da disputa. Você tem direito a uma
-      audiência justa perante o árbitro. O árbitro, em geral, poderá conceder qualquer recurso que um
-      tribunal concederia, incluindo a possibilidade de admitir uma petição incidental (que pode incluir
-      uma petição incidental baseada nas petições das partes, e também baseada nas petições das partes
-      junto com as evidências apresentadas), mas você deve observar que os procedimentos arbitrais são
-      geralmente mais simples e mais diretos que os julgamentos e outros processos judiciais. As decisões
-      do árbitro são passíveis de execução judicial e podem ser anuladas por um tribunal apenas por razões
-      muito limitadas. Para mais informações sobre o processo de arbitragem, consulte os nossos <a
-        href="/arbitration">Procedimentos arbitrais</a>.</li>
-    <li>Qualquer processo para fazer cumprir este contrato de arbitragem, incluindo qualquer processo para
-      confirmar, modificar ou resignar uma sentença arbitral, poderá ser iniciado em qualquer tribunal de
-      jurisdição competente. Caso este contrato de arbitragem seja, por qualquer motivo, considerado
-      inexequível, qualquer litígio contra a Empresa (exceto para ações de pequenas causas) pode ser
-      iniciado somente nos tribunais federais ou estaduais localizados na comarca de Dallas, Texas. Você
-      concorda, irrevogavelmente, com a jurisdição desses tribunais para essas finalidades.</li>
-    <li>A plataforma on-line de resolução de litígios da Comissão Europeia está disponível em <a
-        href="http://ec.europa.eu/odr">http://ec.europa.eu/odr</a>. A Petfynder não participa dos
-      procedimentos da resolução de litígios perante uma entidade de arbitragem para membros que moram na
-      União Europeia ou no Espaço Econômico Europeu.</li>
-  </ol>
-  <h2>16. Legislação aplicável.</h2>
-  <p>Para os membros residentes na União Europeia, no Espaço Econômico Europeu ou outros locais onde o
-    nosso contrato de arbitragem seja proibido por lei, as leis do Texas, EUA, exceto as regras de
-    conflitos legais do Texas, serão aplicadas a quaisquer disputas resultantes deste Contrato ou do
-    Serviço. Não obstante o referido acima, o Contrato de Arbitragem contido na Seção 15 acima será regido
-    pela Lei Federal de Arbitragem. Para evitar dúvidas, a escolha da legislação do Texas não substituirá
-    nenhuma legislação obrigatória de proteção ao consumidor dessas jurisdições.</p>
-  <h2>17. Foro competente.</h2>
-  <p>Exceto para os membros residentes na UE ou no Espaço Econômico Europeu, que podem fazer
-    reivindicações em seu país de residência de acordo com a lei aplicável, exceto para reivindicações que
-    possam ser adequadamente apresentadas em um tribunal de pequenas causas de jurisdição competente,
-    todas as reivindicações decorrentes de ou referentes a este Contrato, ao Serviço ou ao seu
-    relacionamento com o Petfynder que, por qualquer motivo, não forem submetidas a arbitragem, serão
-    litigadas exclusivamente nos tribunais federais ou estaduais do Condado de Dallas, Texas, EUA. Você e
-    o Petfynder concordam com o exercício da jurisdição pessoal dos tribunais no Estado do Texas e
-    renunciam
-    a qualquer reivindicação de que tais tribunais constituam um fórum inconveniente.</p>
-  <h2>18. Indenização por Você.</h2>
+  <h2>15. Indenização por Você.</h2>
   <p>Você concorda, na extensão permitida pela lei aplicável, em indenizar, defender e isentar o
-    Petfynder,
-    nossas afiliadas e seus respectivos executivos, diretores, agentes e funcionários de e contra
+    Petfynder, nossas afiliadas e seus respectivos executivos, diretores, agentes e funcionários de e contra
     quaisquer e todas as reclamações, demandas, reivindicações, danos, perdas, custos, responsabilidades e
     despesas, inclusive honorários advocatícios decorrentes, resultantes ou relacionados, de qualquer
     forma, com o seu acesso ou uso do Serviço, seu Conteúdo ou a sua violação deste Contrato.</p>
-  <h2>19. Contrato integral; outros.</h2>
-  <p>Este Contrato, juntamente com a <a href="/privacy">Política de Privacidade</a>, a <a href="/cookie-policy">Política
-      de Cookies</a>, as <a href="/safety">Dicas de Segurança</a>, os <a href="/arbitration">Procedimentos Arbitrais</a>
-    (se aplicáveis a você) e quaisquer termos divulgados
+  <h2>16. Contrato integral; outros.</h2>
+  <p>Este Contrato, juntamente com a <a href="https://jonatanortiz.github.io/Politica-de-Privacidade-Petfynder/"
+      target="_blank">Política de Privacidade</a> e quaisquer termos divulgados
     e acordados por você, se adquirir recursos, produtos ou serviços adicionais que oferecemos no Serviço,
     constitui o contrato integral entre você e o Petfynder sobre a utilização do Serviço. Se qualquer
     disposição deste Contrato for considerada inválida, as demais disposições deste Contrato permanecerão
     em pleno vigor e efeito. A incapacidade da Empresa em exercer ou exigir qualquer direito ou disposição
     deste Contrato não constituirá uma renúncia a este direito ou disposição. Você concorda que a sua
     conta do Petfynder é intransferível e todos os seus direitos sob a sua conta e seu conteúdo terminam
-    após
-    a sua morte. Nenhuma agência, parceria, joint venture, fiduciária ou outra relação ou contratação
+    após a sua morte. Nenhuma agência, parceria, joint venture, fiduciária ou outra relação ou contratação
     especial é criada como resultado deste Contrato, e você não poderá, de maneira alguma, fazer quaisquer
     declarações ou vincular o Petfynder.</p>
 </body>

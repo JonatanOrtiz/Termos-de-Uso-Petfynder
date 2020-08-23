@@ -9,7 +9,7 @@
   <h2>1. Aceitação dos Termos de uso.</h2>
   <p>Ao criar uma conta no Petfynder, seja através de dispositivo móvel, aplicativo móvel ou computador
     (coletivamente, o “Serviço”), você concorda em vincular-se (i) aos presentes Termos de Uso, (ii) a
-    nossa <a href="/https://jonatanortiz.github.io/Politica-de-Privacidade-Petfynder/">Política de Privacidade</a>, nossa <a href="/cookie-policy">Política de
+    nossa <a href="https://jonatanortiz.github.io/Politica-de-Privacidade-Petfynder/" target="_blank">Política de Privacidade</a>, nossa <a href="/cookie-policy">Política de
       Cookies</a>, nossos <a href="/arbitration">Procedimentos Arbitrais</a> (se aplicáveis a você) e
     nossas <a href="/safety">Dicas de Segurança</a>, cada qual será incorporado a este Contrato por
     referência, bem como (iii) quaisquer termos divulgados e assinados por você ao adquirir recursos

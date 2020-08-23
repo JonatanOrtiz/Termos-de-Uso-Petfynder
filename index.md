@@ -1,36 +1,15 @@
 <meta charSet="utf-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
 <body>
-  <h1 class="headline">Termos de uso</h1>
+  <h1>Termos de uso</h1>
   <p>Última revisão em 23/08/2020</p>
-  <p>Principal alteração nesta versão: atualizamos nossa razão social para MG Japan Services GK para os
-    membros que residem no Japão.</p>
-  <p>Para um resumo dos Termos de uso, acesse <a href="/summary-of-terms">Resumo dos termos</a>.</p>
-  <p>Bem-vindo ao Petfynder. Se você estiver na União Europeia, estes Termos de Uso regem a relação entre
-    você e:</p>
-  <p>MTCH Technology Services Limited (“MTCH Technology”)<br>
-    WeWork Charlemont Exchange<br>
-    Charlemont Street<br>
-    Dublin 2 D02 VN88<br>
-    Irlanda</p>
-  <p>Se você reside no Japão, estes Termos de Uso regem a relação entre você e:</p>
-  <p>MG Japan Services GK (“MG Japan”)
-    4F Sumitomo Fudosan Azabu Bldg
-    1-4-1 Mita
-    Minato-ku, Tóquio 108-0073
-    Japão</p>
-  <p>Se você mora fora da União Europeia e do Japão, estes Termos de Uso regem a relação entre você e:</p>
-  <p>Match Group, LLC (“Match Group”)<br>
-    8750 North Central Expressway, Suite 1400<br>
-    Dallas, TX 75231, EUA</p>
-  <p>Os termos (“nós”, a “Empresa” ou “Petfynder”) referem-se à MTCH Technology, à MG Japan ou ao Match
-    Group, respectivamente, de acordo com o seu país de residência.</p>
+  <p>Bem-vindo ao Petfynder.</p>
+  <p>Os termos (“nós” ou “Empresa”) referem-se ao “Petfynder”.</p>
   <h2>1. Aceitação dos Termos de uso.</h2>
   <p>Ao criar uma conta no Petfynder, seja através de dispositivo móvel, aplicativo móvel ou computador
     (coletivamente, o “Serviço”), você concorda em vincular-se (i) aos presentes Termos de Uso, (ii) a
-    nossa <a href="/privacy">Política de Privacidade</a>, nossa <a href="/cookie-policy">Política de
+    nossa <a href="/https://jonatanortiz.github.io/Politica-de-Privacidade-Petfynder/">Política de Privacidade</a>, nossa <a href="/cookie-policy">Política de
       Cookies</a>, nossos <a href="/arbitration">Procedimentos Arbitrais</a> (se aplicáveis a você) e
     nossas <a href="/safety">Dicas de Segurança</a>, cada qual será incorporado a este Contrato por
     referência, bem como (iii) quaisquer termos divulgados e assinados por você ao adquirir recursos
